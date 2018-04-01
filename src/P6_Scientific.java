@@ -1,14 +1,20 @@
 /*
 	ISYS 320
-	Name(s):
-	Date: 
+	Name(s): Derek Rieger
+	Date: 4/1/18
 */
 
 public class P6_Scientific {
 
 	public static void main(String[] args) {
-		// REMINDER: Any print statements should only be in the main method
-
+		computeScientificValue();	
 	}
+public static void computeScientificValue() {
+	
+	
+	
+	
+	
+}
 
 }
